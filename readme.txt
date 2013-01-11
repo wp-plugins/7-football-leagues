@@ -8,11 +8,11 @@ Stable tag:
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Отображается несколько футбольных таблиц в виджете
+Displays several football tables in the widget
 
 == Description ==
 
-В виджете могут быть размещены 7 таблиц лиг: Английская, РФПЛ, ФНЛ, Немецкая, Испанская, Итальянская и Украинская.
+The widget can be placed 7 tables leagues: English, Russian Premier League, First Division, German, Spanish, Italian and Ukrainian.
 
 == Installation ==
 
@@ -32,10 +32,10 @@ An answer to that question.
 
 == Changelog ==
 
-1.1.2 - Добавлена ФНЛ
-1.1.1 - добавлена 1 лига
-1.1 - Добавлены еще 2 лиги
-1.0 - Создал плагин
+1.1.2 - Added the FNL
+1.1.1 - Added 1 league
+1.1 - added 2 League
+1.0 - to create a plugin
 
 == Upgrade notice ==
 
