@@ -27,8 +27,8 @@ An answer to that question.
 
 == Screenshots ==
 
-1. http://futnik.ru/wp-content/uploads/2012/11/%D1%81%D0%BA%D1%80%D0%B8%D0%BD3.jpg
-2. http://futnik.ru/wp-content/uploads/2012/11/%D1%81%D0%BA%D1%80%D0%B8%D0%BD2.jpg
+1. layout 1
+2. layout 2
 
 == Changelog ==
 
